@@ -1,0 +1,10 @@
+
+
+    *** Make HTML Pages ***
+
+    1/ Make a folder for HTML file and access it.
+    2/ Make HTML files 
+    3/ Load html files 
+
+    ** Making a Static Web page inside home, about, etc
+    
